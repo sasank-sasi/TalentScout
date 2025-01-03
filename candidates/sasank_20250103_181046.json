@@ -1,0 +1,25 @@
+{
+    "name": "sasank",
+    "email": "sasanksasi@gmail.com",
+    "phone": "8639093109",
+    "experience": 2.0,
+    "location": "vizag",
+    "position": "data analyst",
+    "tech_stack": [
+        "python",
+        "numpy",
+        "pandas",
+        "plotly"
+    ],
+    "work_experience": "I worked in Aegion dynamic as a machine learning intern and built projects based on nlp",
+    "resume_link": "https://drive.google.com/file/d/1VbDBx6OmJEUWVQZinaXgVMe7G8K87-cl/view?usp=sharing",
+    "answers": "",
+    "questions": [
+        "1. Can you explain the difference between categorical and numerical variables, and provide an example of each?",
+        "2. How would you go about cleaning and preprocessing a dataset before performing analysis? Please walk me through the steps you would take.",
+        "3. What is the difference between univariate, bivariate, and multivariate analysis? Can you give an example of when you would use each type of analysis?",
+        "1. Can you describe a time when you had to deal with missing data in a dataset, and how you handled it? What methods did you use to assess the impact of the missing data, and how did you ensure the accuracy and validity of your analysis?",
+        "2. Can you explain the process you would follow to perform exploratory data analysis (EDA) on a new dataset? What tools and techniques do you typically use during EDA, and how do you ensure that you're capturing the most important insights and trends in the data?"
+    ],
+    "timestamp": "2025-01-03T18:10:46.568898"
+}
